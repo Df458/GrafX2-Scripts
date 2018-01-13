@@ -1,0 +1,5 @@
+# Ignore saved data
+*.dat
+
+# Ignore optional libraries
+memory.lua
